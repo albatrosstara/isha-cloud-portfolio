@@ -1,13 +1,16 @@
 # Isha Cloud Portfolio
 This is me finally documenting cloud project deployed using AWS S3.
 ## Live website
-http://isha-portfolio-123.s3-website-us-east-1.amazonaws.com/
+- S3: http://isha-portfolio-123.s3-website-us-east-1.amazonaws.com/
+- CloudFront: https://d182z1zagkkmse.cloudfront.net/
 ## Tech used 
 - AWS S3
-- AWS Website Hosting
+- AWS CloudFront CDN
+- AWS S3 Static Website Hosting
 ## What I Learned
 - Hosting a website on cloud
 - Managing public access permissions
 - Working with AWS S3
+- Setting up CloudFront for fast global delivery
 ## About The Site
-A simple HTML page hosted on AWS S3 as my cloud deployment project.
+A simple HTML page hosted on AWS S3 and delivered globally via as my cloud deployment project.
