@@ -20,6 +20,6 @@ A simple HTML page hosted on AWS S3 and delivered globally via as my cloud deplo
 Voice intercom built with AWS API Gateway WebSocket, Lambda, DynamoDB and WebRTC.
 Zero cost audio — AWS only handles the 1-second call handshake.
 
-- **Repo:** [serverless-intercom](https://github.com/YOUR_USERNAME/serverless-intercom)
+- **Repo:** [serverless-intercom](https://github.com/albatrosstara/serverless-intercom.git)
 - **Tech:** AWS Lambda · API Gateway · DynamoDB · WebRTC
 - **Cost:** ~$0/month
